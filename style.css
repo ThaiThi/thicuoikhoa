@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input{
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+    margin: 2vh;
+    color: blue;
+    justify-content: space-around;
+    align-items: center ;
+    box-sizing: border-box; 
+}
+.output{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: 2vh;
+    color: rgb(175, 46, 13);
+    align-items: center;
+    border-radius:1.2vw;
+    background-color: rgb(245, 238, 146);
+    box-sizing: border-box; 
+}
